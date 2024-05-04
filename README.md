@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:33%;position:relative;"><iframe src="https://giphy.com/embed/miPTomnzp2O72uC7Ii" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/miPTomnzp2O72uC7Ii">via GIPHY</a></p>
+
 <img align ="center" alt="Banner" src="https://giphy.com/embed/miPTomnzp2O72uC7Ii">
 <h1 align="center">Hi 👋, I'm Dheeraj Mandlik</h1>
 <h3 align="center">A passionate Full Stack Developer from Indore,India</h3>
