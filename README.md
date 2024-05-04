@@ -2,13 +2,12 @@
 <h3 align="center">A passionate Full Stack Developer from Indore,India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Cybersecurity**
 
 - 📫 How to reach me **d05mandlik@gmail.com**
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandlik05dheeraj" alt="mandlik05dheeraj" /></a> </p>
 <h3 align="left">Connect with me:</h3>
