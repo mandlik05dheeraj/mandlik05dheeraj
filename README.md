@@ -1,4 +1,5 @@
-<img align ="center" alt="Coding" width="400" src=""C:\Users\Lenovo\Downloads\Full Stack Web Developer (2).png"">
+<iframe src="https://giphy.com/embed/miPTomnzp2O72uC7Ii" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/miPTomnzp2O72uC7Ii">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Dheeraj Mandlik</h1>
 <h3 align="center">A passionate Full Stack Developer from Indore,India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
