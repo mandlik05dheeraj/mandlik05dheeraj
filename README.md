@@ -1,10 +1,6 @@
-#<[MasterHead]("C:\Users\Lenovo\Downloads\Full Stack Web Developer.png")>
 <h1 align="center">Hi 👋, I'm Dheeraj Mandlik</h1>
 <h3 align="center">A passionate full stack developer from Indore,India</h3>
-<img display: block
-  margin-left: auto
-  margin-right: auto
-  width: 50% align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img display="block" align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandlik05dheeraj" alt="mandlik05dheeraj" /></a> </p>
